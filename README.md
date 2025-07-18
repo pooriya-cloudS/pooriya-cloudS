@@ -32,51 +32,7 @@ I am Pooriya Adib Rad, a backend developer with 2 years of hands-on experience s
 
 ---
 
-## 💼 Experience
-
-### Software Engineer  
-**Amol University of Special Modern Technologies**  
-_03/2024 – Present, Amol, Iran_  
-- Designed and developed a course scheduling system that optimizes university timetables under complex constraints for AUSMT
-- Designed and developed a comprehensive dormitory management system as a freelancer for AUSMT. 
-- Designed and developed a scientific association management system.
-### Back End Developer  
-**Paya Co**  
-_10/2024 – 02/2025, Amol, Iran_  
-- Django Junior Developer.
-- Contributed to backend development of a wallet-based fare management system using Django.
-- Developed and maintained RESTful APIs for fare calculation, trip tracking, and wallet transactions.
-- Participated in code reviews, testing, and bug fixing to ensure system reliability.
-
-### Software Engineer  
-**Freelance**  
-_03/2024 – 03/2025, Amol, Iran_  
-- Involved in business software projects such as:
-  - Social Network Project
-  - Telegram Bot Development
-  - E-commerce project
-  - Appointment system
-
-### Lead Teacher  
-**Arsia academy**  
-_06/2023 – 01/2025, Qaem Shahr, Iran_  
-- Academic Lead, Programming and Software Engineering
-- Led a teaching team of 10 instructors
-- Oversaw curriculum development for 20 courses
-
-### Teacher  
-**Arsia academy**  
-_01/2023 – 06/2023, Qaem Shahr, Iran_  
-- Served as Python and C# instructor at the academy
-- Held more than ten courses
-
-### Teacher  
-**modhej academy**  
-_09/2023 – 12/2024, Abadan, Iran_  
-- Instructor for online classes (Python, Django, C#)
-- Managed classroom environment for up to 30 students per session
-- Increased student satisfaction by 40% through interactive learning modules
-
+---
 
 ## 🎓 Education
 
