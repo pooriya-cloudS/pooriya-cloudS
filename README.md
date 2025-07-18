@@ -1,15 +1,10 @@
 # Pooriya Adib Rad
 
-**BackEnd Developer | Django | FastAPI**
+**BackEnd Developer | Django | FastAPI | DevOps & AI Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/pooriya-adib-rad-251278330/)  
 📞 989398413991 | ✉️ adibradp@gmail.com | 📍 Tehran
 
----
-
-![image1](image1)
-
----
 
 ## 📝 Summary
 
@@ -82,18 +77,6 @@ _09/2023 – 12/2024, Abadan, Iran_
 - Managed classroom environment for up to 30 students per session
 - Increased student satisfaction by 40% through interactive learning modules
 
-### Support Associate  
-**modhej academy**  
-_09/2023 – 10/2024, Abadan, Iran_  
-- Assisted students by answering programming questions (Python, Django)
-- Made Django, Python, and C# easier to learn
-
-### Teacher  
-**Iran robotics academy**  
-_05/2023 – 09/2023, Babol, Iran_  
-- Python teacher (basic to advanced)
-- Held 2 courses
-
 
 ## 🎓 Education
 
@@ -110,9 +93,4 @@ _Amol University of Special Modern Technologies
 
 ---
 
-## 📷 Resume
 
-See the original resume:  
-![image1](image1)
-
----
