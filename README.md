@@ -15,7 +15,7 @@ I am Pooriya Adib Rad, a backend developer with 2 years of hands-on experience s
 ## 🛠 Skills
 
 - **Programming Languages:** Python, C#
-- **Frameworks & Tools:** Django, FastAPI, Django REST Framework, MongoDB, PostgreSQL, Redis, Celery, Microservice, PEP8, Solid, asynchronous programming
+- **Frameworks & Tools:** Django, FastAPI, Django REST Framework, MongoDB, PostgreSQL, Redis, Celery, Microservice, Clean Code, Solid, asynchronous programming
 - **DevOps & Practices:** Docker, Ubuntu, Postman API, CICD, Software Engineering Practices, Unit and Integration Test 
 - **Other:** Software Development, Teamwork, Curriculum Development
 
